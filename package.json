@@ -1,0 +1,13 @@
+{
+
+  "name":"chatdemo",
+  "version":"0.0.1",
+  "private":"true",
+  "main": "app.js",
+  "dependencies":{
+    "socket.io":"1.4.5",
+    "express":"4.13.4",
+	"mongoose":"4.3.7"
+
+  }
+}
